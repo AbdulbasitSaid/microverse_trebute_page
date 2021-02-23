@@ -1,0 +1,14 @@
+h1 {
+  color: rgb(163, 115, 115);
+}
+#img-div {
+  width: 500px;
+  height: 500px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+}
+#img-div img {
+  width: 100%;
+  height: 100%;
+}
